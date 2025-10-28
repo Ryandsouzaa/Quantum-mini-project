@@ -1,0 +1,14 @@
+# Streamlit Framework
+streamlit==1.33.0
+
+# Core Qiskit library for quantum circuits
+qiskit==1.0.2
+
+# Qiskit simulator backend
+qiskit_aer==0.13.3
+
+# Plotting library used by Qiskit for visualization
+matplotlib==3.8.4
+
+# Optional dependency for Qiskit's matplotlib drawer
+pylatexenc==2.10
