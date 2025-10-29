@@ -1,5 +1,4 @@
-# Streamlit Framework
-python-version: "3.11"
+
 streamlit==1.33.0
 
 # Core Qiskit library for quantum circuits
